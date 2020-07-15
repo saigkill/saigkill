@@ -2,6 +2,7 @@
 
 Hi. I'm Sascha Manns from Germany. Since 1986 im working with computers. Over the years i worked with a C64, i286, i386 and other computers. I real like to work with them. So i started programming with BASIC, then Visual Basic, Ruby, Python and now C#. I learned MySQL, MS-SQL and Intersystems Cachè. I worked with different APIs and technologies like SOAP and others.
 Since a few years i'm working as Windows Insider.
+Over the years i worked in the bank sector, the healthcare sector, and wrote cross-platform apps for customers. Also i worked inside the openSUSE Linux project and other open source projects. I wrote internal documentations and public books for different targets.
 
 ![Sascha Manns's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saigkill&hide=[%22stars%22]&show_icons=true)
 
@@ -9,7 +10,7 @@ Since a few years i'm working as Windows Insider.
 
 - 🌱 I’m currently learning .NET Core 5.x
 
-- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de
+- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: https://gitconnected.com/saigkill/resume
 
 ## Programming Languages 🌐
 
@@ -39,8 +40,8 @@ Since a few years i'm working as Windows Insider.
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/github.png" alt="github logo" width="34">](https://github.com/saigkill) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/saigkill/) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/saigkill)| [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/Facebook_.png" alt="dev logo" width="24">](https://www.facebook.com/sascha.manns) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/saigkill) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/7404985/sascha-manns) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/lastfm.png" alt="gitlab logo" width="24">](https://www.last.fm/user/illuminatus1979) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/saigkill) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/saigkill) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/xing.png" alt="xing logo" width="29">](https://www.xing.com/profile/SaschaZyroslawKyrill_Manns/cv)
-|---|---|---|---|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/github.png" alt="github logo" width="34">](https://github.com/saigkill) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/saigkill/) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/saigkill)| [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/Facebook_.png" alt="dev logo" width="24">](https://www.facebook.com/sascha.manns) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/saigkill) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/7404985/sascha-manns) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/lastfm.png" alt="gitlab logo" width="24">](https://www.last.fm/user/illuminatus1979) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/saigkill) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/saigkill) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/xing.png" alt="xing logo" width="29">](https://www.xing.com/profile/SaschaZyroslawKyrill_Manns/cv) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/gitconnected.jpg" alt="xing logo" width="29">](https://gitconnected.com/saigkill)
+|---|---|---|---|---|---|---|---|---|---|---|
 
 <!--
 **saigkill/saigkill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
