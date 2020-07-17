@@ -14,7 +14,6 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=saigkill alt=saigkill/> </p>
 <a target="_blank" href="https://www.openhub.net/accounts/saigkill?ref=sample"><img alt='Open Hub profile for Sascha Manns' border='0' height='35' src='https://www.openhub.net/accounts/saigkill/widgets/account_detailed?format=gif&amp;ref=sample' width='230'>
 </a>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=saigkill alt=saigkill/> </p>
 
 ## Programming Languages 🌐
 
