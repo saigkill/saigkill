@@ -15,7 +15,7 @@ Hi. I'm Sascha Manns from Germany. Since 1986 im working with computers. Over th
 
 Over the years i worked in the bank sector, the healthcare sector, and wrote cross-platform apps for customers. Also i worked inside the openSUSE Linux project and other open source projects. I wrote internal documentations and public books for different target audiences.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="204" height="159" />
 
 ### Some Personal Stuff
 
