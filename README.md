@@ -25,6 +25,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 - 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: https://gitconnected.com/saigkill/resume
 
+</br>
 📈 **My GitHub Stats:**
 
 <p>
