@@ -21,7 +21,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 - 🔭 I’m currently working Pengwin Linux
 
-- 🌱 I’m currently learning .NET Core 5.x
+- 🌱 I’m currently learning building PWA's with Blazor
 
 - 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: https://gitconnected.com/saigkill/resume
 
