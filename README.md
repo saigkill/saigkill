@@ -1,3 +1,5 @@
+[![Sascha's GitHub Banner](./assets/blog-header-github.jpg)](https://saschamanns.de)
+
 # Hi there, I'm <a href="https://saschamanns.de" target="_blank">Sascha Manns</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saigkill)
@@ -19,13 +21,42 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 ### Some Personal Stuff
 
-- 🔭 I’m currently working Pengwin Linux
+- 🔭 I’m currently working on Pengwin Linux
 
 - 🌱 I’m currently learning building PWA's with Blazor
 
-- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: https://gitconnected.com/saigkill/resume
+- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: ![Gitconnect](https://gitconnected.com/saigkill/resume)
+
+## 📝 Latest Blog Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 <br />
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/saigkill/latex_curriculum_vitae-dotnet">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=latex_curriculum_vitae-dotnet&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/saigkill/ignore-me">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=ignore-me&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/saigkill/Pengwin">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=Pengwin&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -37,25 +68,42 @@ No Activity tracked this Week
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saigkill&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigkill&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saigkill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigkill&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sascha's GitHub Stats"/>
 </p>
-
-<a target="_blank" href="https://www.openhub.net/accounts/saigkill?ref=sample"><img alt='Open Hub profile for Sascha Manns' border='0' height='35' src='https://www.openhub.net/accounts/saigkill/widgets/account_detailed?format=gif&amp;ref=sample' width='230'>
-</a>
 
 ## Programming Languages 🌐
 
 ### Know/Using
 
-| [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/ASPNetCore.jpg" alt="asp logo" width="60">](https://docs.microsoft.com/en-US/aspnet/core/) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/c-sharp.png" alt="c# logo" width="38">](https://docs.microsoft.com/en-us/dotnet/csharp/) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/DotNetCore.jpg" alt="dotnetcore logo" width="60">](https://docs.microsoft.com/en-us/dotnet/core/) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/JavaScript.png" alt="js logo" width="28">](https://www.javascript.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="40">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="28">](https://www.gnu.org/software/bash/) | [<img src="https://raw.githubusercontent.com/saigkill/saigkill/master/img/ruby.png" alt="ruby logo" width="28">](https://www.ruby-lang.org/en/) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 ### Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 
+### More
+
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+
+<br>
+
+## 📣 How about an Office quote before you go?
+
+> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+>
+> <p>- Andy Bernard</p>
+
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
+
+Check back at the top of the hour for a new quote!
 <!--
 **saigkill/saigkill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
