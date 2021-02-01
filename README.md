@@ -32,9 +32,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Latex Curriculum Vitae 0.9.0-beta1 released!](https://saschamanns.de/latex-curriculum-vitae-090-beta1-released)
-- [Animated Typing Utility with JavaScript](https://saschamanns.de/animated-typing-utility-with-javascript)
-- [Adding a estimated time to read to a .NET Core Blog with Razor](https://saschamanns.de/adding-a-estimated-time-to-read-to-a-net-core-blog-with-razor)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br />
@@ -63,11 +61,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-VimL         1 hr 35 mins    █████████████▓░░░░░░░░░░░   54.53 % 
-Markdown     36 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 % 
-Other        17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Bash         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-PowerShell   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
@@ -110,9 +104,9 @@ PowerShell   6 mins          █░░░░░░░░░░░░░░░░
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.
 >
-> <p>- Jim Halpert</p>
+> <p>- Ryan Howard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
