@@ -25,7 +25,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 - 🌱 I’m currently learning building PWA's with Blazor
 
-- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: ![Gitconnect](https://gitconnected.com/saigkill/resume)
+- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: [Gitconnect](https://gitconnected.com/saigkill/resume)
 
 ## 📝 Latest Blog Posts
 
@@ -82,6 +82,8 @@ No Activity tracked this Week
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MSSQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
 
 ### Learning
 
@@ -93,6 +95,10 @@ No Activity tracked this Week
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GNU Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=4AB197)
 
 <br>
 
