@@ -25,7 +25,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 - 🌱 I’m currently learning building PWA's with Blazor
 
-- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: ![Gitconnect](https://gitconnected.com/saigkill/resume)
+- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: [Gitconnect](https://gitconnected.com/saigkill/resume)
 
 ## 📝 Latest Blog Posts
 
@@ -58,15 +58,12 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 </a>
 
 <br>
-
+<br>
+<br>
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-VimL         1 hr 35 mins    █████████████▓░░░░░░░░░░░   54.53 % 
-Markdown     36 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 % 
-Other        17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Bash         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-PowerShell   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
@@ -85,8 +82,10 @@ PowerShell   6 mins          █░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MSSQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
 
 ### Learning
 
@@ -98,14 +97,18 @@ PowerShell   6 mins          █░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GNU Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=4AB197)
 
 <br>
 
 ## 📣 How about an Office quote before you go?
 
-> I wish there was a way to know you’re in the good old days, before you’ve actually left them.
+> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
 >
-> <p>- Andy Bernard</p>
+> <p>- Darryl Philbin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
