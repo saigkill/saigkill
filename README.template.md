@@ -97,7 +97,7 @@ No Activity tracked this Week
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GNU Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GNU-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=4AB197)
 
 <br>
