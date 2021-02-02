@@ -32,9 +32,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Latex Curriculum Vitae 0.9.0-beta1 released!](https://saschamanns.de/latex-curriculum-vitae-090-beta1-released)
-- [Animated Typing Utility with JavaScript](https://saschamanns.de/animated-typing-utility-with-javascript)
-- [Adding a estimated time to read to a .NET Core Blog with Razor](https://saschamanns.de/adding-a-estimated-time-to-read-to-a-net-core-blog-with-razor)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br />
@@ -63,11 +61,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-VimL       1 hr 35 mins    ███████████▓░░░░░░░░░░░░░   46.04 % 
-Markdown   53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.67 % 
-YAML       18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Other      18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Bash       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
@@ -110,7 +104,7 @@ Bash       7 mins          █░░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.
+> And I knew exactly what to do. But in a much more real sense, I had no idea what to do.
 >
 > <p>- Michael Scott</p>
 
