@@ -25,16 +25,15 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 - 🌱 I’m currently learning building PWA's with Blazor
 
-- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: [Gitconnect](https://gitconnected.com/saigkill/resume)
+- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de <br />
+- My resume can shown there: [Gitconnect](https://gitconnected.com/saigkill/resume)
 
 ## 📝 Latest Blog Posts
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Latex Curriculum Vitae 0.9.0-beta1 released!](https://saschamanns.de/latex-curriculum-vitae-090-beta1-released)
-- [Animated Typing Utility with JavaScript](https://saschamanns.de/animated-typing-utility-with-javascript)
-- [Adding a estimated time to read to a .NET Core Blog with Razor](https://saschamanns.de/adding-a-estimated-time-to-read-to-a-net-core-blog-with-razor)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br />
@@ -57,25 +56,11 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=Pengwin&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-<br>
-<br>
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-VimL       1 hr 35 mins    ███████████▓░░░░░░░░░░░░░   46.04 % 
-Markdown   53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.67 % 
-YAML       18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Other      18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Bash       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-```
-<!--END_SECTION:waka-->
 
-<br />
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saigkill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saigkill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigkill&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sascha's GitHub Stats"/>
 </p>
 
@@ -84,7 +69,6 @@ Bash       7 mins          █░░░░░░░░░░░░░░░░�
 ### Know/Using
 
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
@@ -110,9 +94,9 @@ Bash       7 mins          █░░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
+> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
 >
-> <p>- Toby Flenderson</p>
+> <p>- Darryl Philbin</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
