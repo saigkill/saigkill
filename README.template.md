@@ -25,7 +25,8 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 - 🌱 I’m currently learning building PWA's with Blazor
 
-- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de My resume can shown there: [Gitconnect](https://gitconnected.com/saigkill/resume)
+- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de <br />
+- My resume can shown there: [Gitconnect](https://gitconnected.com/saigkill/resume)
 
 ## 📝 Latest Blog Posts
 
@@ -55,21 +56,11 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=Pengwin&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-<br>
-<br>
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
-<br />
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saigkill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saigkill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigkill&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sascha's GitHub Stats"/>
 </p>
 
@@ -78,7 +69,6 @@ No Activity tracked this Week
 ### Know/Using
 
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
