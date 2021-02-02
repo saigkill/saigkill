@@ -32,9 +32,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Latex Curriculum Vitae 0.9.0-beta1 released!](https://saschamanns.de/latex-curriculum-vitae-090-beta1-released)
-- [Animated Typing Utility with JavaScript](https://saschamanns.de/animated-typing-utility-with-javascript)
-- [Adding a estimated time to read to a .NET Core Blog with Razor](https://saschamanns.de/adding-a-estimated-time-to-read-to-a-net-core-blog-with-razor)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br />
@@ -63,11 +61,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-VimL       1 hr 35 mins    ███████████▓░░░░░░░░░░░░░   46.04 % 
-Markdown   53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.67 % 
-YAML       18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Other      18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Bash       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
@@ -110,9 +104,9 @@ Bash       7 mins          █░░░░░░░░░░░░░░░░�
 
 ## 📣 How about an Office quote before you go?
 
-> In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.
+> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
 >
-> <p>- Darryl Philbin</p>
+> <p>- Toby Flenderson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
