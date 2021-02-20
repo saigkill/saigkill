@@ -33,9 +33,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Latex Curriculum Vitae 0.9.0-beta1 released!](https://saschamanns.de/latex-curriculum-vitae-090-beta1-released)
-- [Animated Typing Utility with JavaScript](https://saschamanns.de/animated-typing-utility-with-javascript)
-- [Adding a estimated time to read to a .NET Core Blog with Razor](https://saschamanns.de/adding-a-estimated-time-to-read-to-a-net-core-blog-with-razor)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br />
@@ -96,9 +94,9 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 ## 📣 How about an Office quote before you go?
 
-> I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.
+> It's true. I'm having a party. I've got three cases of imported beer, a karaoke machine, and I didn't invite Michael. So three ingredients for a great party. And it's nothing personal, I just think that if he were there, people wouldn't be able to relax, and you know, have fun, and my roommate wants to meet everybody. Because I'm pretty sure he thinks that I'm making Dwight up. [sighs] He is very real.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
