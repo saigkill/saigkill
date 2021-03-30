@@ -33,9 +33,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Latex Curriculum Vitae 0.9.0-beta1 released!](https://saschamanns.de/latex-curriculum-vitae-090-beta1-released)
-- [Animated Typing Utility with JavaScript](https://saschamanns.de/animated-typing-utility-with-javascript)
-- [Adding a estimated time to read to a .NET Core Blog with Razor](https://saschamanns.de/adding-a-estimated-time-to-read-to-a-net-core-blog-with-razor)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br />
@@ -96,9 +94,9 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 ## 📣 How about an Office quote before you go?
 
-> I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?
+> Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.
 >
-> <p>- Dwight Schrute</p>
+> <p>- Toby Flenderson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
