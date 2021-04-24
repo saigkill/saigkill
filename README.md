@@ -33,9 +33,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Latex Curriculum Vitae 0.9.0-beta1 released!](https://saschamanns.de/latex-curriculum-vitae-090-beta1-released)
-- [Animated Typing Utility with JavaScript](https://saschamanns.de/animated-typing-utility-with-javascript)
-- [Adding a estimated time to read to a .NET Core Blog with Razor](https://saschamanns.de/adding-a-estimated-time-to-read-to-a-net-core-blog-with-razor)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br />
@@ -96,7 +94,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 ## 📣 How about an Office quote before you go?
 
-> If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.
+> Well, Happy Birthday Jesus. Sorry your party’s so lame.
 >
 > <p>- Michael Scott</p>
 
