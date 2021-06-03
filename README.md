@@ -94,9 +94,9 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 ## 📣 How about an Office quote before you go?
 
-> If you pray enough, you can change yourself into a cat person.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Angela Martin</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
