@@ -94,9 +94,9 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 ## 📣 How about an Office quote before you go?
 
-> Once every hour, someone is involved in an internet scam. That man is Michael Scott.
+> I am immensely proud of what I did for that turtle!
 >
-> <p>- Pam Beesly</p>
+> <p>- Kevin Malone</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
