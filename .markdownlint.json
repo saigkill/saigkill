@@ -1,0 +1,6 @@
+{
+    "default": true,
+    "MD033": { "allowed_elements": ["img", "br", "p", "a"] },
+    "MD013": { "line_length": 160 },
+    "no-hard-tabs": false
+}
