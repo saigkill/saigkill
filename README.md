@@ -46,6 +46,10 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=latex_curriculum_vitae-dotnet&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/saigkill/saschamannsde">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=saschamannsde&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <br>
 
 <a href="https://github.com/saigkill/ignore-me">
