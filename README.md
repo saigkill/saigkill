@@ -30,12 +30,19 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 ## 📝 Latest Blog Posts
 
-<br>
+<br />
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
+<br />
+
+## StackOverflow Activity
+<br />
+<!-- STACKOVERFLOW:START -->
+
+<!-- STACKOVERFLOW:END -->
 <br />
 
 ## 📌 Pinned Repositories
@@ -68,6 +75,11 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigkill&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sascha's GitHub Stats"/>
 </p>
 
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=saigkill&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<br/>
+
 ## Programming Languages 🌐
 
 ### Know/Using
@@ -95,6 +107,74 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 ![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=4AB197)
 
 <br>
+
+### Frameworks
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/saigkill/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=saigkill&padding=30'>
+  </a>
+
+<details>
+  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
+  <br/>
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: Hostname: 
+Version: Hockeypuck ~unreleased
+
+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
+Pkg=
+=ohL5
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
 
 ## 📣 How about an Office quote before you go?
 
