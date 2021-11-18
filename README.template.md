@@ -26,7 +26,7 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 - 🌱 I’m currently learning building PWA's with Blazor
 
 - 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de <br />
-- My resume can shown there: [Gitconnect](https://gitconnected.com/saigkill/resume)
+- My resume can shown there: [Curriculum Vitae](https://saschamanns.de/curriculum_vitae)
 
 ## 📝 Latest Blog Posts
 
@@ -44,6 +44,10 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 <a href="https://github.com/saigkill/latex_curriculum_vitae-dotnet">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=latex_curriculum_vitae-dotnet&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/saigkill/saschamannsde">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=saschamannsde&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -94,9 +98,9 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 ## 📣 How about an Office quote before you go?
 
-> {office_quote}
+> Sorry I annoyed you with my friendship.
 >
-> <p>{office_character}</p>
+> <p>- Andy Bernard</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
