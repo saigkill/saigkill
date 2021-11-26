@@ -41,11 +41,11 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 ## StackOverflow Activity
 <br />
 <!-- STACKOVERFLOW:START -->
+- [Exists a way to configure cake so it uses inside DotNetCorePublishSettings the switch self contained](https://stackoverflow.com/questions/70124412/exists-a-way-to-configure-cake-so-it-uses-inside-dotnetcorepublishsettings-the-s)
 - [Why AppData user.config can&#39;t written [duplicate]](https://stackoverflow.com/questions/69836840/why-appdata-user-config-cant-written)
 - [How to localize a DataGridTextColumn?](https://stackoverflow.com/questions/69596750/how-to-localize-a-datagridtextcolumn)
 - [Answer by Sascha Manns for How can i use static resources in WinUI3 pages?](https://stackoverflow.com/questions/69514046/how-can-i-use-static-resources-in-winui3-pages/69531576#69531576)
 - [How can i use static resources in WinUI3 pages?](https://stackoverflow.com/questions/69514046/how-can-i-use-static-resources-in-winui3-pages)
-- [How can I get Visual Studio cmd parameters for debugging working?](https://stackoverflow.com/questions/69488457/how-can-i-get-visual-studio-cmd-parameters-for-debugging-working)
 <!-- STACKOVERFLOW:END -->
 <br />
 
