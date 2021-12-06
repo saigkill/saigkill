@@ -41,11 +41,11 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 ## StackOverflow Activity
 <br />
 <!-- STACKOVERFLOW:START -->
+- [Answer by Sascha Manns for How to fix &#39;The Azure-Ressource is not reachable&#39; for Azure WebApp](https://stackoverflow.com/questions/70249862/how-to-fix-the-azure-ressource-is-not-reachable-for-azure-webapp/70249941#70249941)
+- [How to fix &#39;The Azure-Ressource is not reachable&#39; for Azure WebApp](https://stackoverflow.com/questions/70249862/how-to-fix-the-azure-ressource-is-not-reachable-for-azure-webapp)
 - [Exists a way to configure cake so it uses inside DotNetCorePublishSettings the switch self contained](https://stackoverflow.com/questions/70124412/exists-a-way-to-configure-cake-so-it-uses-inside-dotnetcorepublishsettings-the-s)
 - [Why AppData user.config can&#39;t written [duplicate]](https://stackoverflow.com/questions/69836840/why-appdata-user-config-cant-written)
 - [How to localize a DataGridTextColumn?](https://stackoverflow.com/questions/69596750/how-to-localize-a-datagridtextcolumn)
-- [Answer by Sascha Manns for How can i use static resources in WinUI3 pages?](https://stackoverflow.com/questions/69514046/how-can-i-use-static-resources-in-winui3-pages/69531576#69531576)
-- [How can i use static resources in WinUI3 pages?](https://stackoverflow.com/questions/69514046/how-can-i-use-static-resources-in-winui3-pages)
 <!-- STACKOVERFLOW:END -->
 <br />
 
