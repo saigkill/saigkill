@@ -18,7 +18,7 @@ Hi. I'm Sascha Manns from Germany. Since 1986 im working with computers. Over th
 Over the years i worked in the bank sector, the healthcare sector, and wrote cross-platform apps for customers. Also i worked inside the openSUSE Linux project and other open source projects. I wrote internal documentations and public books for different target audiences.
 
 <!--<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="204" height="159" /> -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/saigkill/saigkill/blob/master/devcard.svg" width="200" align="right" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/saigkill/saigkill/blob/master/devcard.svg" width="290" align="right" alt="Chris Bongers's Dev Card"/></a>
 ### Some Personal Stuff
 
 - 🔭 I’m currently working on Pengwin Linux
