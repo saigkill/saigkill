@@ -41,11 +41,11 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 ## StackOverflow Activity
 <br />
 <!-- STACKOVERFLOW:START -->
-- [Why method isn&#39;t allowed?](https://stackoverflow.com/questions/70371005/why-method-isnt-allowed)
-- [Answer by Sascha Manns for How to fix &#39;The Azure-Ressource is not reachable&#39; for Azure WebApp](https://stackoverflow.com/questions/70249862/how-to-fix-the-azure-ressource-is-not-reachable-for-azure-webapp/70249941#70249941)
-- [How to fix &#39;The Azure-Ressource is not reachable&#39; for Azure WebApp](https://stackoverflow.com/questions/70249862/how-to-fix-the-azure-ressource-is-not-reachable-for-azure-webapp)
-- [Exists a way to configure cake so it uses inside DotNetCorePublishSettings the switch self contained](https://stackoverflow.com/questions/70124412/exists-a-way-to-configure-cake-so-it-uses-inside-dotnetcorepublishsettings-the-s)
-- [Why AppData user.config can&#39;t written [duplicate]](https://stackoverflow.com/questions/69836840/why-appdata-user-config-cant-written)
+- [How to fix a packaged WinUI3 app build, what makes trouble with ProcessorArchitecture?](https://stackoverflow.com/questions/72980822/how-to-fix-a-packaged-winui3-app-build-what-makes-trouble-with-processorarchite)
+- [What can i do, if Add-Migration doesnt work?](https://stackoverflow.com/questions/72924264/what-can-i-do-if-add-migration-doesnt-work)
+- [When a bound property gets a input?](https://stackoverflow.com/questions/72849795/when-a-bound-property-gets-a-input)
+- [How to handle linked projects in Azure DevOps Pipelines?](https://stackoverflow.com/questions/72756115/how-to-handle-linked-projects-in-azure-devops-pipelines)
+- [How do i run WinUI3 App from Commandline with arguments](https://stackoverflow.com/questions/72217885/how-do-i-run-winui3-app-from-commandline-with-arguments)
 <!-- STACKOVERFLOW:END -->
 <br />
 
