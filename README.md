@@ -72,14 +72,14 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 </a>
 
 
-📈 ## My GitHub Stats:
+## 📈 My GitHub Stats:
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saigkill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigkill&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sascha's GitHub Stats"/>
 </p>
 
-📊 ## This week I spent my time on
+## 📊 This week I spent my time on
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=saigkill&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <br/>
