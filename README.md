@@ -41,11 +41,11 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 ## StackOverflow Activity
 <br />
 <!-- STACKOVERFLOW:START -->
-- [Why method isn&#39;t allowed?](https://stackoverflow.com/questions/70371005/why-method-isnt-allowed)
-- [Answer by Sascha Manns for How to fix &#39;The Azure-Ressource is not reachable&#39; for Azure WebApp](https://stackoverflow.com/questions/70249862/how-to-fix-the-azure-ressource-is-not-reachable-for-azure-webapp/70249941#70249941)
-- [How to fix &#39;The Azure-Ressource is not reachable&#39; for Azure WebApp](https://stackoverflow.com/questions/70249862/how-to-fix-the-azure-ressource-is-not-reachable-for-azure-webapp)
-- [Exists a way to configure cake so it uses inside DotNetCorePublishSettings the switch self contained](https://stackoverflow.com/questions/70124412/exists-a-way-to-configure-cake-so-it-uses-inside-dotnetcorepublishsettings-the-s)
-- [Why AppData user.config can&#39;t written [duplicate]](https://stackoverflow.com/questions/69836840/why-appdata-user-config-cant-written)
+- [Why am I getting a FileNotFOund Exception in my ASP.NET Core 7 MVC while upload handling?](https://stackoverflow.com/questions/75021963/why-am-i-getting-a-filenotfound-exception-in-my-asp-net-core-7-mvc-while-upload)
+- [Why my Blazor webapp hangs and doesnt shows anything in my Browser?](https://stackoverflow.com/questions/74796762/why-my-blazor-webapp-hangs-and-doesnt-shows-anything-in-my-browser)
+- [Why WebView2 aren&#39;t load in WinUi3 App in C:\Program Files?](https://stackoverflow.com/questions/74232183/why-webview2-arent-load-in-winui3-app-in-c-program-files)
+- [What are minimum system requirements for developing iPhone and Mac Catalyst?](https://stackoverflow.com/questions/73488040/what-are-minimum-system-requirements-for-developing-iphone-and-mac-catalyst)
+- [How to fix a packaged WinUI3 app build, what makes trouble with ProcessorArchitecture?](https://stackoverflow.com/questions/72980822/how-to-fix-a-packaged-winui3-app-build-what-makes-trouble-with-processorarchite)
 <!-- STACKOVERFLOW:END -->
 <br />
 
@@ -53,8 +53,8 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 <br>
 
-<a href="https://github.com/saigkill/latex_curriculum_vitae-dotnet">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=latex_curriculum_vitae-dotnet&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/saigkill/JobApplicationManager">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=saigkill&repo=JobApplicationManager&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/saigkill/saschamannsde">
@@ -72,14 +72,14 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 </a>
 
 
-📈 ## My GitHub Stats:
+## 📈 My GitHub Stats:
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saigkill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigkill&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Sascha's GitHub Stats"/>
 </p>
 
-📊 ## This week I spent my time on
+## 📊 This week I spent my time on
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=saigkill&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <br/>
