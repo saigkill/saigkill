@@ -25,8 +25,8 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 
 - 🌱 I’m currently learning building PWA's with Blazor
 
-- 💬 Employment status: Unemployed (Feel free to ask) on Sascha.Manns@outlook.de <br />
-- My resume can shown there: [Curriculum Vitae](https://saschamanns.de/curriculum_vitae)
+- 💬 Employment status: Unemployed (Feel free to ask) on [Sascha.Manns@outlook.de](mailto:Sascha.Manns@outlook.de) <br />
+- My resume can shown there: [Curriculum Vitae](https://profile.codersrank.io/user/saigkill)
 
 ## 📝 Latest Blog Posts
 
