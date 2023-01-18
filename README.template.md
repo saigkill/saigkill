@@ -14,11 +14,11 @@
 [![Discord](https://img.shields.io/badge/discord-saigkill-blue)](https://discord.com/channels/@saigkill001#3216)
 [![Mastodon](https://img.shields.io/badge/mastodon-saigkill-red)](https://social.linux.pizza/@saigkill)
 [![Codersrank](https://img.shields.io/badge/codersrank-saigkill-yellowgreen)](https://profile.codersrank.io/user/saigkill)
-[![Matrix](https://img.shields.io/badge/matrix-saigkill-yellow)](https://matrix.to/#/@@saigkill0:matrix.org)
+[![Matrix](https://img.shields.io/badge/matrix-saigkill-yellow)](https://matrix.to/#/@saigkill0:matrix.org)
 [![DevRant](https://img.shields.io/badge/devrant-saigkill-orange)](https://devrant.com/users/saigkill)
-![Last.fm](https://badges.lastfm.workers.dev/last-played?user=rj)
+[![Last.fm](https://badges.lastfm.workers.dev/last-played?user=rj)](https://www.last.fm/user/illuminatus1979)
 
-<!-- This is the home place for my open source work &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saigkill.saigkill) -->
+This is the home place for my open source work &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saigkill.saigkill)
 
 - 🔭 &nbsp;I’m currently working on updating my blog to .NET 7
 
