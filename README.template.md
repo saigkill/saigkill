@@ -19,7 +19,7 @@
 [![Last.fm](https://badges.lastfm.workers.dev/last-played?user=rj)](https://www.last.fm/user/illuminatus1979)
 
 This is the home place for my open source work &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saigkill.saigkill)
-
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/saigkill/saigkill/blob/master/devcard.svg" width="150" align="right" alt="Chris Bongers's Dev Card"/></a>
 - 🔭 &nbsp;I’m currently working on updating my blog to .NET 7
 
 - 🌱 &nbsp;I’m currently learning building PWA's with Blazor and .NET MAUI
