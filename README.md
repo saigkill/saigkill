@@ -33,7 +33,11 @@ Over the years i worked in the bank sector, the healthcare sector, and wrote cro
 <br />
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Latex Curriculum Vitae 0.9.0-beta1 released!](https://dev.to/saigkill/latex-curriculum-vitae-0-9-0-beta1-3690)
+- [Searching for a easy to use and free option for merging PDFs.](https://dev.to/saigkill/searching-for-a-easy-to-use-and-free-option-for-merging-pdfs-dga)
+- [ASP.NET Core WebApp doesn&#39;t work](https://dev.to/saigkill/asp-net-core-webapp-doesn-t-work-kpk)
+- [Need help by moving a Webapp from Azure to NAS](https://dev.to/saigkill/need-help-by-moving-a-webapp-from-azure-to-nas-4im5)
+- [What means the unicorn response?](https://dev.to/saigkill/what-means-the-unicorn-response-cbj)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
