@@ -17,6 +17,7 @@
 [![Matrix](https://img.shields.io/badge/matrix-saigkill0-yellow)](https://matrix.to/#/@saigkill0:matrix.org)
 [![DevRant](https://img.shields.io/badge/devrant-saigkill-orange)](https://devrant.com/users/saigkill)
 [![Last.fm](https://badges.lastfm.workers.dev/last-played?user=illuminatus1979)](https://www.last.fm/user/illuminatus1979)
+[![Keybase](https://img.shields.io/badge/keybase-saigkill-brightgreen)](https://keybase.io/saigkill001)
 
 This is the home place for my open source work &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saigkill.saigkill)
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/saigkill/saigkill/blob/master/devcard.svg" width="240" align="right" alt="Chris Bongers's Dev Card"/></a>
