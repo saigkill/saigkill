@@ -63,9 +63,11 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
   I am a .NET Developer with 5+ years of experience in developing enterprise applications and open source software.
   All my projects on Github are released under a open source license, so you can use it for any case under their terms.
   Some of my current important repos are:
-  - <a href="https://github.com/MannsBlog" target="_blank">MannsBlog</a> Sourcecode of my website saschamanns.de. I have abstracted the information so far, that you can use it as base for your own blog. Feel free to fork and modify.
-  - <a href="https://github.com/saigkill/JobApplicationManager" target="_blank">JobApplicationManager</a> It is a tool for searching, writing and managing job applications. Using LaTEX you can produce, compile and send beautiful documents directly within the app.
-  - <a href="https://github.com/saigkill/pengwin-setup" target="_blank">PengwinSetup</a> Setup for Pengwin WSL distribution.
+  <ul>
+  <li><a href="https://github.com/MannsBlog" target="_blank">MannsBlog</a> Sourcecode of my website saschamanns.de. I have abstracted the information so far, that you can use it as base for your own blog. Feel free to fork and modify.</li>
+  <li><a href="https://github.com/saigkill/JobApplicationManager" target="_blank">JobApplicationManager</a> It is a tool for searching, writing and managing job applications. Using LaTEX you can produce, compile and send beautiful documents directly within the app.</li>
+  <li><a href="https://github.com/saigkill/pengwin-setup" target="_blank">PengwinSetup</a> Setup for Pengwin WSL distribution.</li>
+  </ul>
 
 [⏩ &nbsp; and many more](https://github.com/saigkill?tab=repositories&q=&type=source&language=&sort=stargazers)
 ```
