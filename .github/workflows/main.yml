@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Replace this URL with your rss feed URL/s
-          feed_list: "https://dev.to/feed/saigkill"
+          feed_list: "https://dev.to/feed/saigkill,https://saschamanns.de/rss"
