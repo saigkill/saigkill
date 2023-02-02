@@ -33,10 +33,10 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 
 <!-- BLOG-POST-LIST:START -->
 - [Welcome to Moonglade](http://saschamanns.de/post/2023/1/30/welcome-to-moonglade)
-- [Latex Curriculum Vitae 0.9.0-beta1 released!](https://dev.to/saigkill/latex-curriculum-vitae-0-9-0-beta1-3690)
-- [Searching for a easy to use and free option for merging PDFs.](https://dev.to/saigkill/searching-for-a-easy-to-use-and-free-option-for-merging-pdfs-dga)
-- [ASP.NET Core WebApp doesn&#39;t work](https://dev.to/saigkill/asp-net-core-webapp-doesn-t-work-kpk)
-- [Need help by moving a Webapp from Azure to NAS](https://dev.to/saigkill/need-help-by-moving-a-webapp-from-azure-to-nas-4im5)
+- [Animated Typing Utility with JavaScript](http://saschamanns.de/post/2019/5/21/animated-typing-utility-with-javascript)
+- [Animierter Typing-Effekt mit Javascript](http://saschamanns.de/post/2019/5/21/animierter-typing-effekt-mit-javascript)
+- [Adding a estimated time to read to a .NET Core Blog with Razor](http://saschamanns.de/post/2019/4/4/adding-a-estimated-time-to-read-to-a-net-core-blog-with-razor)
+- [Erwartete Lesezeit in einem .NET Core blog mit Razor hinzufügen](http://saschamanns.de/post/2019/4/4/erwartete-lesezeit-in-einem-net-core-blog-mit-razor-hinzufuegen)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
