@@ -32,11 +32,11 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Synchronise Github Repository with Azure DevOps](http://saschamanns.de/post/2023/2/6/synchronise-github-repository-with-azure-devops)
 - [Github Repository mit Azure DevOps synchronisieren](http://saschamanns.de/post/2023/2/6/github-repository-mit-azure-devops-synchronisieren)
 - [Welcome to Moonglade](http://saschamanns.de/post/2023/1/30/welcome-to-moonglade)
 - [Animated Typing Utility with JavaScript](http://saschamanns.de/post/2019/5/21/animated-typing-utility-with-javascript)
 - [Animierter Typing-Effekt mit Javascript](http://saschamanns.de/post/2019/5/21/animierter-typing-effekt-mit-javascript)
-- [Adding a estimated time to read to a .NET Core Blog with Razor](http://saschamanns.de/post/2019/4/4/adding-a-estimated-time-to-read-to-a-net-core-blog-with-razor)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
