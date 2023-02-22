@@ -32,11 +32,11 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Support the open source community? Yes with pleasure, but how?](http://saschamanns.de/post/2023/2/19/support-the-open-source-community-yes-with-pleasure-but-how-35235395)
-- [Open Source Community unterstützen? Ja gerne, aber wie?](http://saschamanns.de/post/2023/2/19/open-source-community-unterstuetzen-ja-gerne-aber-wie)
-- [Zelda 3 - A Link to the Past für Windows, Linux und MacOS](http://saschamanns.de/post/2023/2/7/zelda3-a-link-to-the-past-fuer-windows-linux-und-macos)
-- [Synchronise Github Repository with Azure DevOps](http://saschamanns.de/post/2023/2/6/synchronise-github-repository-with-azure-devops)
-- [Github Repository mit Azure DevOps synchronisieren](http://saschamanns.de/post/2023/2/6/github-repository-mit-azure-devops-synchronisieren)
+- [Support the open source community? Yes with pleasure, but how?](https://saschamanns.de/post/2023/2/19/support-the-open-source-community-yes-with-pleasure-but-how-35235395)
+- [Open Source Community unterstützen? Ja gerne, aber wie?](https://saschamanns.de/post/2023/2/19/open-source-community-unterstuetzen-ja-gerne-aber-wie)
+- [Zelda 3 - A Link to the Past für Windows, Linux und MacOS](https://saschamanns.de/post/2023/2/7/zelda3-a-link-to-the-past-fuer-windows-linux-und-macos)
+- [Synchronise Github Repository with Azure DevOps](https://saschamanns.de/post/2023/2/6/synchronise-github-repository-with-azure-devops)
+- [Github Repository mit Azure DevOps synchronisieren](https://saschamanns.de/post/2023/2/6/github-repository-mit-azure-devops-synchronisieren)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
