@@ -32,11 +32,11 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Paketaktualisierung schlägt bei postinst-Scripten fehl](https://saschamanns.de/post/2023/3/29/paketaktualisierung-schlagt-bei-postinst-scripten-fehl)
+- [Package update fails for postinst scripts](https://saschamanns.de/post/2023/3/29/package-update-fails-for-postinst-scripts)
 - [Minimal API-Key Lösung](https://saschamanns.de/post/2023/3/27/minimal-api-key-losung)
 - [Minimal API-Key Solution](https://saschamanns.de/post/2023/3/27/minimal-api-key-solution)
 - [Support the open source community? Yes with pleasure, but how?](https://saschamanns.de/post/2023/2/19/support-the-open-source-community-yes-with-pleasure-but-how-35235395)
-- [Open Source Community unterstützen? Ja gerne, aber wie?](https://saschamanns.de/post/2023/2/19/open-source-community-unterstuetzen-ja-gerne-aber-wie)
-- [Zelda 3 - A Link to the Past für Windows, Linux und MacOS](https://saschamanns.de/post/2023/2/7/zelda3-a-link-to-the-past-fuer-windows-linux-und-macos)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
