@@ -32,22 +32,22 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to Moonglade](http://saschamanns.de/post/2023/1/30/welcome-to-moonglade)
-- [Animated Typing Utility with JavaScript](http://saschamanns.de/post/2019/5/21/animated-typing-utility-with-javascript)
-- [Animierter Typing-Effekt mit Javascript](http://saschamanns.de/post/2019/5/21/animierter-typing-effekt-mit-javascript)
-- [Adding a estimated time to read to a .NET Core Blog with Razor](http://saschamanns.de/post/2019/4/4/adding-a-estimated-time-to-read-to-a-net-core-blog-with-razor)
-- [Erwartete Lesezeit in einem .NET Core blog mit Razor hinzufügen](http://saschamanns.de/post/2019/4/4/erwartete-lesezeit-in-einem-net-core-blog-mit-razor-hinzufuegen)
+- [Paketaktualisierung schlägt bei postinst-Scripten fehl](https://saschamanns.de/post/2023/3/29/paketaktualisierung-schlagt-bei-postinst-scripten-fehl)
+- [Package update fails for postinst scripts](https://saschamanns.de/post/2023/3/29/package-update-fails-for-postinst-scripts)
+- [Minimal API-Key Lösung](https://saschamanns.de/post/2023/3/27/minimal-api-key-losung)
+- [Minimal API-Key Solution](https://saschamanns.de/post/2023/3/27/minimal-api-key-solution)
+- [Support the open source community? Yes with pleasure, but how?](https://saschamanns.de/post/2023/2/19/support-the-open-source-community-yes-with-pleasure-but-how-35235395)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
 📕 &nbsp;**Stack Overflow Posts**
 
 <!-- STACKOVERFLOW:START -->
+- [What implementation of WebApp is the best if i just have one user who consuments it?](https://stackoverflow.com/questions/75822155/what-implementation-of-webapp-is-the-best-if-i-just-have-one-user-who-consuments)
+- [How to get information about failed app install in Teams?](https://stackoverflow.com/questions/75683261/how-to-get-information-about-failed-app-install-in-teams)
 - [Why am I getting a FileNotFOund Exception in my ASP.NET Core 7 MVC while upload handling?](https://stackoverflow.com/questions/75021963/why-am-i-getting-a-filenotfound-exception-in-my-asp-net-core-7-mvc-while-upload)
 - [Why my Blazor webapp hangs and doesnt shows anything in my Browser?](https://stackoverflow.com/questions/74796762/why-my-blazor-webapp-hangs-and-doesnt-shows-anything-in-my-browser)
 - [Why WebView2 aren&#39;t load in WinUi3 App in C:\Program Files?](https://stackoverflow.com/questions/74232183/why-webview2-arent-load-in-winui3-app-in-c-program-files)
-- [What are minimum system requirements for developing iPhone and Mac Catalyst?](https://stackoverflow.com/questions/73488040/what-are-minimum-system-requirements-for-developing-iphone-and-mac-catalyst)
-- [How to fix a packaged WinUI3 app build, what makes trouble with ProcessorArchitecture?](https://stackoverflow.com/questions/72980822/how-to-fix-a-packaged-winui3-app-build-what-makes-trouble-with-processorarchite)
 <!-- STACKOVERFLOW:END -->
 <br />
 
