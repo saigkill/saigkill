@@ -56,10 +56,6 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=saigkill&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 ![Github](https://github-readme-stats.vercel.app/api?username=saigkill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)
 
-🐧 &nbsp;**Latest Open Source Contributions**
-- [On Github](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+sort%3Aupdated-desc+is%3Aclosed)
-- [On German Informatics Society](https://ak-oss.gi.de/)
-
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br />
@@ -67,7 +63,7 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
   All my projects on Github are released under a open source license, so you can use it for any case under their terms.
   Some of my current important repos are:
   <ul>
-  <li><a href="https://github.com/MannsBlog" target="_blank">MannsBlog</a> Sourcecode of my website saschamanns.de. I have abstracted the information so far, that you can use it as base for your own blog. Feel free to fork and modify.</li>
+  <li><a href="https://github.com/Moonglade-saigkill" target="_blank">Moonglade-saigkill</a> Sourcecode of my website saschamanns.de. I have abstracted the information so far, that you can use it as base for your own blog. Feel free to fork and modify.</li>
   <li><a href="https://github.com/saigkill/JobApplicationManager" target="_blank">JobApplicationManager</a> It is a tool for searching, writing and managing job applications. Using LaTEX you can produce, compile and send beautiful documents directly within the app.</li>
   <li><a href="https://github.com/saigkill/pengwin-setup" target="_blank">PengwinSetup</a> Setup for Pengwin WSL distribution.</li>
   </ul>
@@ -90,6 +86,10 @@ Starting as a writer for business process and application documentation, he grad
 A few years ago, when Microsoft released the Windows Subsystem for Linux, and other Linux distributions were made available, he helped in the Whitewater Foundation's "Pengwin Linux" project. This was one of the first Linux distributions designed specifically for the subsystem. This allowed him to apply his accumulated experience in the Linux field.
 Currently he is working in the field of e-commerce and is involved in the development of a middleware that transmits a merchant's products to online marketplaces, collects orders, and depending on the marketplace, assists in shipping the products.
 
+🐧 &nbsp;**Latest Open Source Contributions**
+- [On Google CodeIn for KDE](https://www.google-melange.com/archive/gci/2012/orgs/kde/tasks/8009206.html)
+- [On Github](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+sort%3Aupdated-desc+is%3Aclosed)
+- [On German Informatics Society](https://ak-oss.gi.de/)
 </details>
 
 <details>
