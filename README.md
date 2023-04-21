@@ -56,6 +56,10 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=saigkill&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 ![Github](https://github-readme-stats.vercel.app/api?username=saigkill&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)
 
+🐧 &nbsp;**Latest Open Source Contributions**
+- [On Github](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+sort%3Aupdated-desc+is%3Aclosed)
+- [On German Informatics Society](https://ak-oss.gi.de/)
+
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br />
