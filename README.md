@@ -32,11 +32,11 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://saschamanns.de/post/2023/5/5/test)
 - [Paketaktualisierung schlägt bei postinst-Scripten fehl](https://saschamanns.de/post/2023/3/29/paketaktualisierung-schlagt-bei-postinst-scripten-fehl)
 - [Package update fails for postinst scripts](https://saschamanns.de/post/2023/3/29/package-update-fails-for-postinst-scripts)
 - [Minimal API-Key Lösung](https://saschamanns.de/post/2023/3/27/minimal-api-key-losung)
 - [Minimal API-Key Solution](https://saschamanns.de/post/2023/3/27/minimal-api-key-solution)
+- [Support the open source community? Yes with pleasure, but how?](https://saschamanns.de/post/2023/2/19/support-the-open-source-community-yes-with-pleasure-but-how-35235395)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
