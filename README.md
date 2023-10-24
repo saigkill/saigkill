@@ -43,7 +43,7 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Stack Overflow Posts**
 
 <!-- STACKOVERFLOW:START -->
-- [Why my table-value type is not accepted by stored procedure?](https://stackoverflow.com/questions/77351172/why-my-table-value-type-is-not-accepted-by-stored-procedure)
+- [Why my table-value type is not accepted by stored procedure? [duplicate]](https://stackoverflow.com/questions/77351172/why-my-table-value-type-is-not-accepted-by-stored-procedure)
 - [What implementation of WebApp is the best if i just have one user who consuments it?](https://stackoverflow.com/questions/75822155/what-implementation-of-webapp-is-the-best-if-i-just-have-one-user-who-consuments)
 - [How to get information about failed app install in Teams?](https://stackoverflow.com/questions/75683261/how-to-get-information-about-failed-app-install-in-teams)
 - [Why am I getting a FileNotFOund Exception in my ASP.NET Core 7 MVC while upload handling?](https://stackoverflow.com/questions/75021963/why-am-i-getting-a-filenotfound-exception-in-my-asp-net-core-7-mvc-while-upload)
