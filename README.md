@@ -43,7 +43,7 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Stack Overflow Posts**
 
 <!-- STACKOVERFLOW:START -->
-- [How do i update a ef record with empty fields?](https://stackoverflow.com/questions/77868902/how-do-i-update-a-ef-record-with-empty-fields)
+- [How do I update an EF record with empty fields?](https://stackoverflow.com/questions/77868902/how-do-i-update-an-ef-record-with-empty-fields)
 - [Why a update of .NET targets triggers a &quot;Activate Deploy&quot;?](https://stackoverflow.com/questions/77728908/why-a-update-of-net-targets-triggers-a-activate-deploy)
 - [Why my repo is empty after migrating a svn repo to git?](https://stackoverflow.com/questions/77572351/why-my-repo-is-empty-after-migrating-a-svn-repo-to-git)
 - [Why my table-value type is not accepted by stored procedure? [duplicate]](https://stackoverflow.com/questions/77351172/why-my-table-value-type-is-not-accepted-by-stored-procedure)
