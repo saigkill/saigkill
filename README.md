@@ -43,11 +43,11 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Stack Overflow Posts**
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Sascha Manns for Is it possible to run VsTest in azure pipelines against pre-installed test project](https://stackoverflow.com/questions/78638335/is-it-possible-to-run-vstest-in-azure-pipelines-against-pre-installed-test-proje/78649145#78649145)
 - [Why i&#39;m getting &quot;Key has already been added&quot; in my test [duplicate]](https://stackoverflow.com/questions/78275692/why-im-getting-key-has-already-been-added-in-my-test)
 - [Why a update of .NET targets triggers a &quot;Activate Deploy&quot;?](https://stackoverflow.com/questions/77728908/why-a-update-of-net-targets-triggers-a-activate-deploy)
 - [Why my repo is empty after migrating a svn repo to git?](https://stackoverflow.com/questions/77572351/why-my-repo-is-empty-after-migrating-a-svn-repo-to-git)
 - [Why my table-value type is not accepted by stored procedure? [duplicate]](https://stackoverflow.com/questions/77351172/why-my-table-value-type-is-not-accepted-by-stored-procedure)
-- [What implementation of WebApp is the best if i just have one user who consuments it? [closed]](https://stackoverflow.com/questions/75822155/what-implementation-of-webapp-is-the-best-if-i-just-have-one-user-who-consuments)
 <!-- STACKOVERFLOW:END -->
 <br />
 
