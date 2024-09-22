@@ -19,9 +19,8 @@
 [![Keybase](https://img.shields.io/badge/keybase-saigkill001-brightgreen)](https://keybase.io/saigkill001)
 
 This is the home place for my open source work &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saigkill.saigkill)
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/saigkill/saigkill/blob/master/devcard.svg" width="240" align="right" alt="Chris Bongers's Dev Card"/></a>
 
-- 🔭 &nbsp;I’m currently working on updating my blog to .NET 7
+- 🔭 &nbsp;I’m currently writing interfaces to connect our customers data with our application for manage our random samples.
 
 - 🌱 &nbsp;I’m currently learning building PWA's with Blazor and .NET MAUI
 
@@ -81,10 +80,11 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
                  /___/                /___/       
 ```
 
-Sascha Manns is a German software developer and book author. He worked in the openSUSE community as a packager and editor of the weekly newsletter. For open-slx GmbH he worked on the openSUSE Box, and wrote manuals and guides for the practical use of the Linux distribution.
-Starting as a writer for business process and application documentation, he gradually reoriented himself into the field of software development. Thus, he participated in the development for mobile apps implementing specific workflows of the customers, as well as in the website development of the customers.
-A few years ago, when Microsoft released the Windows Subsystem for Linux, and other Linux distributions were made available, he helped in the Whitewater Foundation's "Pengwin Linux" project. This was one of the first Linux distributions designed specifically for the subsystem. This allowed him to apply his accumulated experience in the Linux field.
-Currently he is working in the field of e-commerce and is involved in the development of a middleware that transmits a merchant's products to online marketplaces, collects orders, and depending on the marketplace, assists in shipping the products.
+Sascha Manns is a German software developer and book author. As a software and data engineer at infas Institute for Applied Social Sciences, I play a key role in creating and maintaining robust databases that are essential for our data-driven research projects. My focus is on developing internal applications that enable efficient data collection and analysis, as well as integrating middleware solutions that optimize the system landscape.
+
+In my previous role at OFFICE Partner GmbH, I honed my skills in the design and implementation of complex data structures. Using Visual Studio and in-depth knowledge of XML, JSON, API development, and database management, I significantly improved data communication between different platforms. Together, our teams have created systems that offer both technical excellence and business added value.
+
+My personality profile is ENFJ (The Protagonist) and I am guided by openness, authenticity, altruism, and tolerance. My strengths are bringing people and technology together to create something new together. This can be seen in my work for openSUSE, where I built up an international team to publish a newsletter simultaneously in up to 12 languages ​​on a weekly basis. In addition to my work and studies, I work voluntarily as chairman of the board of the university group of the German Computer Science Society at our university.
 
 🐧 &nbsp;**Latest Open Source Contributions**
 - [On Google CodeIn for KDE](https://www.google-melange.com/archive/gci/2012/orgs/kde/tasks/8009206.html)
@@ -139,56 +139,20 @@ Currently he is working in the field of e-commerce and is involved in the develo
   <br/>
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: CF71 15CB 2DA9 84A7 5C39  B731 6E68 CB5E C2B2 A673
+Comment: Sascha Manns <Sascha.Manns@outlook.de>
 
-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
-Psxy4GTotRA9IKJJWA==
-=mP7D
+xjMEZu3EJBYJKwYBBAHaRw8BAQdAyQ3Yzt3COYuIVrXH3R9ZxOvAotmVJn27NFA9
+0q4tczTNJlNhc2NoYSBNYW5ucyA8U2FzY2hhLk1hbm5zQG91dGxvb2suZGU+wpME
+ExYKADsWIQTPcRXLLamEp1w5tzFuaMtewrKmcwUCZu3EJAIbIwULCQgHAgIiAgYV
+CgkICwIEFgIDAQIeBwIXgAAKCRBuaMtewrKmc+LqAPkBTv1ZxJJcd6EY+Qpt/1ot
+iE+8jX5FlyWTL00UMWaOQgEA42HBDu1ei2yy7paFP1LrmNxUonCMgdb8JOgyaYcb
++gvOOARm7cQkEgorBgEEAZdVAQUBAQdAUxdblDychpBttD9O8IVivyWIj3SzEvfp
+zD8xUQDWNGgDAQgHwngEGBYKACAWIQTPcRXLLamEp1w5tzFuaMtewrKmcwUCZu3E
+JAIbDAAKCRBuaMtewrKmc4vUAQCTv/OJ7Ndh9zlGPbtULaKala92l5nQ1+nw/p+N
+QbwFLgD+IwICEucHQdcb3594s+7kYfGwftf6MLUDGymXAexiDQI=
+=iOCl
 -----END PGP PUBLIC KEY BLOCK-----
+
 ```
 </details>
