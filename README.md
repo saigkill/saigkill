@@ -32,11 +32,11 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Gründung der Hochschulgruppe der Gesellschaft für Informatik an der FernUniversität Hagen](https://saschamanns.de/post/2023/10/3/launching-university-group-hagen)
-- [Paketaktualisierung schlägt bei postinst-Scripten fehl](https://saschamanns.de/post/2023/3/29/paketaktualisierung-schlagt-bei-postinst-scripten-fehl)
-- [Package update fails for postinst scripts](https://saschamanns.de/post/2023/3/29/package-update-fails-for-postinst-scripts)
-- [Minimal API-Key Lösung](https://saschamanns.de/post/2023/3/27/minimal-api-key-losung)
-- [Minimal API-Key Solution](https://saschamanns.de/post/2023/3/27/minimal-api-key-solution)
+- [Meet &amp; Greet: Dipl.-Oec. Carmen Brablec &lpar;Ziehe deine Kunden an, statt sie zu aquirieren&rpar;](https://saschamanns.de/post/2024/9/21/meet-and-greet-dipl-oec-carmen-brablec)
+- [Minimal API-Key Lösung](https://saschamanns.de/post/2024/9/21/minimal-api-key-loesung)
+- [Zelda 3 - A Link to the Past für Windows, Linux und MacOS](https://saschamanns.de/post/2024/9/21/zelda3-a-link-to-the-past-german)
+- [Zelda 3 - A Link to the Past for Windows, Linux und MacOS](https://saschamanns.de/post/2024/9/18/zelda3-a-link-to-the-past)
+- [Minimal API-Key Solution](https://saschamanns.de/post/2024/9/18/minimal-api-key-solution)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
