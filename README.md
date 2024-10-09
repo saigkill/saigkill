@@ -42,7 +42,7 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Stack Overflow Posts**
 
 <!-- STACKOVERFLOW:START -->
-- [Why i get 403 while uploading static content to azure blob](https://stackoverflow.com/questions/79062668/why-i-get-403-while-uploading-static-content-to-azure-blob)
+- [Why i get 403 while uploading static content to azure blob [closed]](https://stackoverflow.com/questions/79062668/why-i-get-403-while-uploading-static-content-to-azure-blob)
 - [Answer by Sascha Manns for How to fix directory umlauts with git and powershell?](https://stackoverflow.com/questions/78695762/how-to-fix-directory-umlauts-with-git-and-powershell/78696108#78696108)
 - [How to fix directory umlauts with git and powershell? [duplicate]](https://stackoverflow.com/questions/78695762/how-to-fix-directory-umlauts-with-git-and-powershell)
 - [Answer by Sascha Manns for Is it possible to run VsTest in azure pipelines against pre-installed test project](https://stackoverflow.com/questions/78638335/is-it-possible-to-run-vstest-in-azure-pipelines-against-pre-installed-test-proje/78649145#78649145)
