@@ -31,11 +31,11 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet &amp; Greet: Dipl.-Oec. Carmen Brablec &lpar;Ziehe deine Kunden an, statt sie zu aquirieren&rpar;](https://saschamanns.de/post/2024/9/21/meet-and-greet-dipl-oec-carmen-brablec)
-- [Minimal API-Key Lösung](https://saschamanns.de/post/2024/9/21/minimal-api-key-loesung)
-- [Zelda 3 - A Link to the Past für Windows, Linux und MacOS](https://saschamanns.de/post/2024/9/21/zelda3-a-link-to-the-past-german)
-- [Zelda 3 - A Link to the Past for Windows, Linux und MacOS](https://saschamanns.de/post/2024/9/18/zelda3-a-link-to-the-past)
-- [Minimal API-Key Solution](https://saschamanns.de/post/2024/9/18/minimal-api-key-solution)
+- [Saigkills Toolbox 1.0.0](http://saschamanns.de/post/2024/10/17/saigkills-toolbox-100-en)
+- [Saigkills Toolbox 1.0.0](http://saschamanns.de/post/2024/10/17/saigkills-toolbox-100)
+- [Meet &amp; Greet: Dipl.-Oec. Carmen Brablec &lpar;Ziehe deine Kunden an, statt sie zu aquirieren&rpar;](http://saschamanns.de/post/2024/9/21/meet-and-greet-dipl-oec-carmen-brablec)
+- [Minimal API-Key Lösung](http://saschamanns.de/post/2024/9/21/minimal-api-key-loesung)
+- [Zelda 3 - A Link to the Past für Windows, Linux und MacOS](http://saschamanns.de/post/2024/9/21/zelda3-a-link-to-the-past-german)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
