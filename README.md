@@ -31,11 +31,11 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Api Client für das Arbeitsamt](https://saschamanns.de/post/2025/6/8/api-client-fuer-das-deutsche-arbeitsamt)
+- [Api Client for the German Employment Agency](https://saschamanns.de/post/2025/6/8/api-client-for-the-german-employment-agency)
 - [Meet &amp; Greet: Prof. Dr. Julian Kunkel](https://saschamanns.de/post/2024/10/18/meet-and-greet-prof-dr-julian-kunkel)
 - [Saigkills Toolbox 1.0.0](https://saschamanns.de/post/2024/10/17/saigkills-toolbox-100-en)
 - [Saigkills Toolbox 1.0.0](https://saschamanns.de/post/2024/10/17/saigkills-toolbox-100)
-- [Meet &amp; Greet: Dipl.-Oec. Carmen Brablec &lpar;Ziehe deine Kunden an, statt sie zu aquirieren&rpar;](https://saschamanns.de/post/2024/9/21/meet-and-greet-dipl-oec-carmen-brablec)
-- [Minimal API-Key Lösung](https://saschamanns.de/post/2024/9/21/minimal-api-key-loesung)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
