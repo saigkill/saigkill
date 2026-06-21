@@ -26,11 +26,8 @@ This is the home place for my open source work &nbsp; ![](https://visitor-badge.
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Api Client für das Arbeitsamt](https://saschamanns.de/post/2025/6/8/api-client-fuer-das-deutsche-arbeitsamt)
-- [Api Client for the German Employment Agency](https://saschamanns.de/post/2025/6/8/api-client-for-the-german-employment-agency)
-- [Meet &amp; Greet: Prof. Dr. Julian Kunkel](https://saschamanns.de/post/2024/10/18/meet-and-greet-prof-dr-julian-kunkel)
-- [Saigkills Toolbox 1.0.0](https://saschamanns.de/post/2024/10/17/saigkills-toolbox-100-en)
-- [Saigkills Toolbox 1.0.0](https://saschamanns.de/post/2024/10/17/saigkills-toolbox-100)
+- [Ethische Leitlinien für künstliches Bewusstsein: Schutz technischen Lebens und des Menschen im Umgang damit](https://saschamanns.de/ethische-leitlinien-fur-kunstliches-bewusstsein-schutz-technischen-lebens-und-des-menschen-im-umgang)
+- [Ethical Guidelines for Artificial Consciousness: Protecting Technical Life and Protecting Humans in Dealing with It](https://saschamanns.de/ethical-guidelines-for-artificial-consciousness-protecting-technical-life-and-protecting-humans-in-d)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
