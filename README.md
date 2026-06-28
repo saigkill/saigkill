@@ -4,13 +4,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saigkill)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://saschamanns.de)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/saigkill)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/zyroslaw)
 [![XING](https://img.shields.io/badge/-xing-%23ffffff?style=flat-square&logo=Xing&color=#006567)](https://www.xing.com/profile/SaschaZyroslawKyrill_Manns/cv)
 [![Reddit](https://img.shields.io/badge/reddit-saigkill-brightgreen)](https://www.reddit.com/user/saigkill000)
 [![Discord](https://img.shields.io/badge/discord-saigkill001-blue)](https://discord.com/channels/@saigkill001#3216)
 [![Mastodon](https://img.shields.io/badge/mastodon-saigkill-red)](https://mastodon.social/@sascha_Manns)
 [![Codersrank](https://img.shields.io/badge/codersrank-saigkill-yellowgreen)](https://profile.codersrank.io/user/saigkill)
-[![Matrix](https://img.shields.io/badge/matrix-saigkill0-yellow)](https://matrix.to/#/@sascha.manns:matrix.org)
+[![Matrix](https://img.shields.io/badge/matrix-sascha.manns-yellow)](https://matrix.to/#/@sascha.manns:matrix.org)
 [![Last.fm](https://badges.lastfm.workers.dev/last-played?user=illuminatus1979)](https://www.last.fm/user/illuminatus1979)
 
 ## About Me
