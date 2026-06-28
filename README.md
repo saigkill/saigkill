@@ -68,6 +68,7 @@ whether that's in civic tech, social research, or open source infrastructure —
 [![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=saigkill&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://wakatime.com/@saigkill)
 
 ---
+
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Ethische Leitlinien für künstliches Bewusstsein: Schutz technischen Lebens und des Menschen im Umgang damit](https://saschamanns.de/ethische-leitlinien-fur-kunstliches-bewusstsein-schutz-technischen-lebens-und-des-menschen-im-umgang)
@@ -79,9 +80,11 @@ whether that's in civic tech, social research, or open source infrastructure —
 ## 🐧 Open Source Involvement
 
 - Member of the [German Informatics Society (GI)](https://ak-oss.gi.de/) · Open Source working group
+- Member of the [Association of Computing Machinery - SIGAI](https://sigai.acm.org/main/)
 - [Google Code-In 2012 contributor for KDE](https://www.google-melange.com/archive/gci/2012/orgs/kde/tasks/8009206.html)
 - [Pull requests on GitHub](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+sort%3Aupdated-desc+is%3Aclosed)
 
 ---
 
 *All my projects are released under open source licenses — feel free to use them under their respective terms.*
+
