@@ -38,7 +38,7 @@ whether that's in civic tech, social research, or open source infrastructure —
 ## 🛠️ Languages & Tools
 
 <!-- .NET ecosystem -->
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white))
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat&logo=windows&logoColor=white)
@@ -87,4 +87,3 @@ whether that's in civic tech, social research, or open source infrastructure —
 ---
 
 *All my projects are released under open source licenses — feel free to use them under their respective terms.*
-
