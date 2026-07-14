@@ -71,6 +71,7 @@ whether that's in civic tech, social research, or open source infrastructure —
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [waybar-rss 0.1.0](https://saschamanns.de/waybar-rss-0-1-0)
 - [Ethische Leitlinien für künstliches Bewusstsein: Schutz technischen Lebens und des Menschen im Umgang damit](https://saschamanns.de/ethische-leitlinien-fur-kunstliches-bewusstsein-schutz-technischen-lebens-und-des-menschen-im-umgang)
 - [Ethical Guidelines for Artificial Consciousness: Protecting Technical Life and Protecting Humans in Dealing with It](https://saschamanns.de/ethical-guidelines-for-artificial-consciousness-protecting-technical-life-and-protecting-humans-in-d)
 <!-- BLOG-POST-LIST:END -->
