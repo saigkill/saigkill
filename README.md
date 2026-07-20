@@ -42,11 +42,14 @@ whether that's in civic tech, social research, or open source infrastructure —
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat&logo=windows&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET_MAUI-0078D4?style=flat&logo=windows&logoColor=white)
 
 <!-- DevOps & tooling -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AzureDdevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-0078D4?style=flat&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
 
@@ -60,6 +63,10 @@ whether that's in civic tech, social research, or open source infrastructure —
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-E10098?style=flat&logo=fastapi&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-E10098?style=flat&logo=fastapi&logoColor=white)
+![MSGraph](https://img.shields.io/badge/MSGraphAPI-E10098?style=flat&logo=fastapi&logoColor=white)
+
 
 ---
 
