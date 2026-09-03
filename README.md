@@ -78,6 +78,7 @@ whether that's in civic tech, social research, or open source infrastructure —
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [When in Doubt, Protect: A Precautionary Case for Machine Consciousness — Against the Over-Attribution Objection](https://saschamanns.de/2026/09/02/when-in-doubt-protect-a-precautionary-case-for-machine-consciousness-against-the-over-attribution-ob)
 - [Schluss mit den Lieferengpässen](https://saschamanns.de/2026/07/14/schluss-mit-den-lieferengpassen)
 - [waybar-rss 0.1.0](https://saschamanns.de/2026/07/13/waybar-rss-0-1-0)
 - [Ethische Leitlinien für künstliches Bewusstsein: Schutz technischen Lebens und des Menschen im Umgang damit](https://saschamanns.de/2026/06/20/ethische-leitlinien-fur-kunstliches-bewusstsein-schutz-technischen-lebens-und-des-menschen-im-umgang)
