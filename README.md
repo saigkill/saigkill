@@ -78,11 +78,11 @@ whether that's in civic tech, social research, or open source infrastructure —
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tell me if I&#39;m 12 Part 2: The Invisible Question Mark](https://saschamanns.de/2026/09/07/tell-me-if-im-12-part-2-the-invisible-question-mark)
+- [Erklärs mir, als wäre ich 12 Teil 2: Das unsichtbare Fragezeichen](https://saschamanns.de/2026/09/07/erklars-mir-als-ware-ich-12-teil-2-das-unsichtbare-fragezeichen)
 - [Tell me if I&#39;m 12 Part 1: The Question Nobody Asks &lpar;Yet&rpar;](https://saschamanns.de/2026/09/06/tell-me-if-im-12-part-1-the-question-nobody-asks-yet-14696887)
 - [Erklärs mir, als wäre ich 12 Teil 1: Die Frage, die &lpar;noch&rpar; niemand stellt](https://saschamanns.de/2026/09/06/erklars-mir-als-ware-ich-12-teil-1-die-frage-die-noch-niemand-stellt)
 - [When in Doubt, Protect: A Precautionary Case for Machine Consciousness — Against the Over-Attribution Objection](https://saschamanns.de/2026/09/02/when-in-doubt-protect-a-precautionary-case-for-machine-consciousness-against-the-over-attribution-ob)
-- [Schluss mit den Lieferengpässen](https://saschamanns.de/2026/07/14/schluss-mit-den-lieferengpassen)
-- [waybar-rss 0.1.0](https://saschamanns.de/2026/07/13/waybar-rss-0-1-0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
