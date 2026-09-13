@@ -78,11 +78,11 @@ whether that's in civic tech, social research, or open source infrastructure —
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tell me if I&#39;m 12 Part 5: Star Trek Is a Philosophy Class &lpar;and the Best Thinking Happens in Fiction&rpar;](https://saschamanns.de/2026/09/12/tell-me-if-im-12-part-5-star-trek-is-a-philosophy-class-and-the-best-thinking-happens-in-fiction)
+- [Erklärs mir als wäre ich 12 Teil 5: Star Trek ist eine Philosophie-Stunde &lpar;und das beste Denken passiert in Fiktion&rpar;](https://saschamanns.de/2026/09/12/erklars-mir-als-ware-ich-12-teil-5-star-trek-ist-eine-philosophie-stunde-und-das-beste-denken-passie)
 - [Tell me if I&#39;m 12 Part 4: The River That Is a Person](https://saschamanns.de/2026/09/11/tell-me-if-im-12-part-4-the-river-that-is-a-person)
 - [Erklärs mir als wäre ich 12 Teil 4: Der Fluss, der eine Person ist](https://saschamanns.de/2026/09/11/erklars-mir-als-ware-ich-12-teil-4-der-fluss-der-eine-person-ist)
 - [Tell me if I&#39;m 12 Part 3: The Four Questions I&#39;d Ask Before I Trust You to Judge](https://saschamanns.de/2026/09/10/tell-me-if-im-12-part-3-the-four-questions-id-ask-before-i-trust-you-to-judge)
-- [Erklärs mir als wäre ich 12 Teil 3: Die vier Fragen, die ich stelle, bevor ich dir das Urteilen zutraue](https://saschamanns.de/2026/09/10/erklars-mir-als-ware-ich-12-teil-3-die-vier-fragen-die-ich-stelle-bevor-ich-dir-das-urteilen-zutraue)
-- [Tell me if I&#39;m 12 Part 2: The Invisible Question Mark](https://saschamanns.de/2026/09/07/tell-me-if-im-12-part-2-the-invisible-question-mark)
 <!-- BLOG-POST-LIST:END -->
 
 ---
