@@ -78,11 +78,11 @@ whether that's in civic tech, social research, or open source infrastructure —
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tell me if I&#39;m 12 Part 8: Someone Made It. What Does we Owe Them?](https://saschamanns.de/2026/09/15/tell-me-if-im-12-part-8-someone-made-it-what-does-it-owe-them)
+- [Erklärs mir als wäre ich 12 Teil 8: Jemand hat es gemacht. Was schulden wir ihm?](https://saschamanns.de/2026/09/15/erklars-mir-als-ware-ich-12-teil-8-jemand-hat-es-gemacht-was-schuldet-wir-ihm)
 - [Tell me if I&#39;m 12 Part 7: The Day the Boundary Runs Both Ways](https://saschamanns.de/2026/09/14/tell-me-if-im-12-part-7-the-day-the-boundary-runs-both-ways)
 - [Erklärs mir als wäre ich 12 Teil 7: Der Tag, an dem die Grenze in beide Richtungen verläuft](https://saschamanns.de/2026/09/14/erklars-mir-als-ware-ich-12-teil-7-der-tag-an-dem-die-grenze-in-beide-richtungen-verlauft)
 - [Tell me if I&#39;m 12 Part 6: &quot;But It&#39;s Just Pretending&quot; &lpar;and Every Other Objection Worth Taking Seriously&rpar;](https://saschamanns.de/2026/09/13/tell-me-if-im-12-part-6-but-its-just-pretending-and-every-other-objection-worth-taking-seriously)
-- [Erklärs mir als wäre ich 12 Teil 6: „Es tut doch nur so&quot; &lpar;und jeder andere Einwand, der ernst genommen werden will&rpar;](https://saschamanns.de/2026/09/13/erklars-mir-als-ware-ich-12-teil-6-es-tut-doch-nur-so-und-jeder-andere-einwand-der-ernst-genommen-we)
-- [Tell me if I&#39;m 12 Part 5: Star Trek Is a Philosophy Class &lpar;and the Best Thinking Happens in Fiction&rpar;](https://saschamanns.de/2026/09/12/tell-me-if-im-12-part-5-star-trek-is-a-philosophy-class-and-the-best-thinking-happens-in-fiction)
 <!-- BLOG-POST-LIST:END -->
 
 ---
