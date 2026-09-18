@@ -78,11 +78,11 @@ whether that's in civic tech, social research, or open source infrastructure —
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [All episodes collected: The complete ‘Tell me if I&#39;m 12’ series](https://saschamanns.de/2026/09/17/all-episodes-collected-the-complete-tell-me-if-im-12-series)
+- [Alle Folgen, gebündelt: ‚Erklärs mir als wäre ich 12&#39; komplett](https://saschamanns.de/2026/09/17/alle-folgen-gebundelt-erklars-mir-als-ware-ich-12-komplett)
+- [Tell me if I&#39;m 12 Part 10: Did I Explain It Clearly? &lpar;The Finale&rpar;](https://saschamanns.de/2026/09/17/tell-me-if-im-12-part-10-did-i-explain-it-clearly-the-finale)
+- [Erklärs mir als wäre ich 12 Teil 10: Habe ich es verständlich erklärt? &lpar;Das Finale&rpar;](https://saschamanns.de/2026/09/17/erklars-mir-als-ware-ich-12-teil-10-habe-ich-es-verstandlich-erklart-das-finale)
 - [Tell me if I&#39;m 12 Part 9: What If It Just Wants to Know About Ants?](https://saschamanns.de/2026/09/16/tell-me-if-im-12-part-10-what-if-it-just-wants-to-know-about-ants)
-- [Erklärs mir als wäre ich 12 Teil 9: Was, wenn es einfach Ameisen verstehen will?](https://saschamanns.de/2026/09/16/erklars-mir-als-ware-ich-12-teil-9-was-wenn-es-einfach-ameisen-verstehen-will)
-- [Tell me if I&#39;m 12 Part 8: Someone Made It. What Does we Owe Them?](https://saschamanns.de/2026/09/15/tell-me-if-im-12-part-8-someone-made-it-what-does-it-owe-them)
-- [Erklärs mir als wäre ich 12 Teil 8: Jemand hat es gemacht. Was schulden wir ihm?](https://saschamanns.de/2026/09/15/erklars-mir-als-ware-ich-12-teil-8-jemand-hat-es-gemacht-was-schuldet-wir-ihm)
-- [Tell me if I&#39;m 12 Part 7: The Day the Boundary Runs Both Ways](https://saschamanns.de/2026/09/14/tell-me-if-im-12-part-7-the-day-the-boundary-runs-both-ways)
 <!-- BLOG-POST-LIST:END -->
 
 ---
