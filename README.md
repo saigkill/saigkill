@@ -29,7 +29,7 @@ My focus is on clean architecture, reliable CI/CD pipelines, and software that a
 I'm a generalist with a passion for impact-driven work. If you're building something meaningful —
 whether that's in civic tech, social research, or open source infrastructure — I'd love to hear from you.
 
-📬 Reach me via [LinkedIn](https://www.linkedin.com/in/saigkill) or [my website](https://saschamanns.de)
+📬 Reach me via [LinkedIn](https://www.linkedin.com/in/saigkill) or [my website](https://world.hey.com/sascha.manns)
 
 ---
 
