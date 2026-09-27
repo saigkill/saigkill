@@ -3,9 +3,7 @@
 # Hi there, I'm <a href="https://saschamanns.de" target="_blank">Sascha Manns</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saigkill)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://saschamanns.de)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/zyroslaw)
-[![XING](https://img.shields.io/badge/-xing-%23ffffff?style=flat-square&logo=Xing&color=#006567)](https://www.xing.com/profile/SaschaZyroslawKyrill_Manns/cv)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://world.hey.com/sascha.manns)
 [![Reddit](https://img.shields.io/badge/reddit-saigkill-brightgreen)](https://www.reddit.com/user/saigkill000)
 [![Discord](https://img.shields.io/badge/discord-saigkill001-blue)](https://discord.com/channels/@saigkill001#3216)
 [![Mastodon](https://img.shields.io/badge/mastodon-saigkill-red)](https://mastodon.social/@sascha_Manns)
@@ -22,7 +20,7 @@ My focus is on clean architecture, reliable CI/CD pipelines, and software that a
 - 🌱 Deepening my knowledge in mathematics to strengthen my computer science foundation
 - 💼 **Open to new remote opportunities** — ideally in NGOs, research institutions, political foundations, or ethics-adjacent organizations
 - 🌍 Based in Germany · Strong preference for remote work
-- 👨‍💻 Full resume on [Codersrank](https://profile.codersrank.io/user/saigkill)
+- 👨‍💻 Full resume on [Bizzfed](https://bizzfed.de/profile/saigkill)
 
 ---
 
