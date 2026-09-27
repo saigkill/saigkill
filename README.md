@@ -78,10 +78,11 @@ whether that's in civic tech, social research, or open source infrastructure —
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Schluss mit den Lieferengpässen](https://saschamanns.de/schluss-mit-den-lieferengpassen)
-- [waybar-rss 0.1.0](https://saschamanns.de/waybar-rss-0-1-0)
-- [Ethische Leitlinien für künstliches Bewusstsein: Schutz technischen Lebens und des Menschen im Umgang damit](https://saschamanns.de/ethische-leitlinien-fur-kunstliches-bewusstsein-schutz-technischen-lebens-und-des-menschen-im-umgang)
-- [Ethical Guidelines for Artificial Consciousness: Protecting Technical Life and Protecting Humans in Dealing with It](https://saschamanns.de/ethical-guidelines-for-artificial-consciousness-protecting-technical-life-and-protecting-humans-in-d)
+- [All episodes collected: The complete ‘Tell me if I&#39;m 12’ series](https://saschamanns.de/2026/09/17/all-episodes-collected-the-complete-tell-me-if-im-12-series)
+- [Alle Folgen, gebündelt: ‚Erklärs mir als wäre ich 12&#39; komplett](https://saschamanns.de/2026/09/17/alle-folgen-gebundelt-erklars-mir-als-ware-ich-12-komplett)
+- [Tell me if I&#39;m 12 Part 10: Did I Explain It Clearly? &lpar;The Finale&rpar;](https://saschamanns.de/2026/09/17/tell-me-if-im-12-part-10-did-i-explain-it-clearly-the-finale)
+- [Erklärs mir als wäre ich 12 Teil 10: Habe ich es verständlich erklärt? &lpar;Das Finale&rpar;](https://saschamanns.de/2026/09/17/erklars-mir-als-ware-ich-12-teil-10-habe-ich-es-verstandlich-erklart-das-finale)
+- [Tell me if I&#39;m 12 Part 9: What If It Just Wants to Know About Ants?](https://saschamanns.de/2026/09/16/tell-me-if-im-12-part-10-what-if-it-just-wants-to-know-about-ants)
 <!-- BLOG-POST-LIST:END -->
 
 ---
