@@ -76,11 +76,11 @@ whether that's in civic tech, social research, or open source infrastructure —
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Memory Necessary? Continuity Reconsidered](https://world.hey.com/sascha.manns/is-memory-necessary-continuity-reconsidered-1ba2f56a)
+- [Mastodon Client for Omarchy Quattro](https://world.hey.com/sascha.manns/mastodon-client-for-omarchy-quattro-911e6b4b)
+- [Support the open source community? Yes with pleasure, but how?](https://world.hey.com/sascha.manns/support-the-open-source-community-yes-with-pleasure-but-how-015be029)
 - [Suche Job Senior Softwareentwickler .NET](https://world.hey.com/sascha.manns/suche-job-senior-softwareentwickler-net-88a3b6be)
 - [Alle Folgen, gebündelt: ‚Erklärs mir als wäre ich 12&#39; komplett](https://world.hey.com/sascha.manns/alle-folgen-gebundelt-erklars-mir-als-ware-ich-12-komplett-fe47632b)
-- [All episodes collected: The complete ‘Tell me if I&#39;m 12’ series](https://world.hey.com/sascha.manns/all-episodes-collected-the-complete-tell-me-if-i-m-12-series-7ba72755)
-- [Tell me if I&#39;m 12 Part 10: Did I Explain It Clearly? &lpar;The Finale&rpar;](https://world.hey.com/sascha.manns/tell-me-if-i-m-12-part-10-did-i-explain-it-clearly-the-finale-28a4850b)
-- [Erklärs mir als wäre ich 12 Teil 10: Habe ich es verständlich erklärt? &lpar;Das Finale&rpar;](https://world.hey.com/sascha.manns/erklars-mir-als-ware-ich-12-teil-10-habe-ich-es-verstandlich-erklart-das-finale-c6d37876)
 <!-- BLOG-POST-LIST:END -->
 
 ---
