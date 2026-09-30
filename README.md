@@ -20,7 +20,7 @@ My focus is on clean architecture, reliable CI/CD pipelines, and software that a
 - 🌱 Deepening my knowledge in mathematics to strengthen my computer science foundation
 - 💼 **Open to new remote opportunities** — ideally in NGOs, research institutions, political foundations, or ethics-adjacent organizations
 - 🌍 Based in Germany · Strong preference for remote work
-- 👨‍💻 Full resume on [Bizzfed](https://bizzfed.de/profile/saigkill)
+- 👨‍💻 Full resume on [Vutuv](https://vutuv.de/sascha_2f40b179)
 
 ---
 
