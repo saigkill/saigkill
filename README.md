@@ -76,11 +76,11 @@ whether that's in civic tech, social research, or open source infrastructure —
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Two Clocks: Why Institutional Recognition Cannot Catch Up](https://world.hey.com/sascha.manns/the-two-clocks-why-institutional-recognition-cannot-catch-up-fe4ca2ee)
 - [Copyright&#39;s Lesson: What Moral Rights Doctrine Reveals About the Legal Preconditions of AI Personhood](https://world.hey.com/sascha.manns/copyright-s-lesson-what-moral-rights-doctrine-reveals-about-the-legal-preconditions-of-ai-personhood-c7a782f7)
 - [Precaution for Machine Minds: What Uncertainty About Artificial Consciousness Obligates](https://world.hey.com/sascha.manns/precaution-for-machine-minds-what-uncertainty-about-artificial-consciousness-obligates-ac31792f)
 - [Is Memory Necessary? Continuity Reconsidered](https://world.hey.com/sascha.manns/is-memory-necessary-continuity-reconsidered-1ba2f56a)
 - [Mastodon Client for Omarchy Quattro](https://world.hey.com/sascha.manns/mastodon-client-for-omarchy-quattro-911e6b4b)
-- [Support the open source community? Yes with pleasure, but how?](https://world.hey.com/sascha.manns/support-the-open-source-community-yes-with-pleasure-but-how-015be029)
 <!-- BLOG-POST-LIST:END -->
 
 ---
